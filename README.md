@@ -14,4 +14,4 @@ Peixian Zhuang, Xiaochen Zhang, Hao Wang, Tianxiang Zhang, Leiming Liu, and Jian
 >* Python == 3.8.19
 >* pytorch == 2.4.0
 >* causal-conv1d == 1.4.0
->* mamba_ssm==1.0.1
+>* mamba_ssm==2.2.2
