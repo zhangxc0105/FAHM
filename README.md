@@ -1,4 +1,3 @@
-The project code will be released upon acceptance.
 # 📖FAHM: Frequency-Aware Hierarchical Mamba for Hyperspectral Image Classification
 Peixian Zhuang, Xiaochen Zhang, Hao Wang, Tianxiang Zhang, Leiming Liu, and Jiangyun Li
 
