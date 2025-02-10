@@ -566,23 +566,6 @@ if args.flag_test == 'test':
                                         [149, 82, 49],
                                         [109, 177, 70], 
                                         [102, 188, 199], ])
-    elif args.dataset == 'Houston':
-        dpi_large = 1000
-        color_costom_matrix = np.array([[79, 170, 72],
-                                        [136, 186, 67],
-                                        [62, 131, 91],
-                                        [54, 132, 68],
-                                        [144, 81, 54],
-                                        [102, 188, 199],
-                                        [255, 255, 255],
-                                        [218, 48, 44],  # commercial
-                                        [120, 133, 131],  # road
-                                        [120, 34, 35],
-                                        [50, 101, 67],
-                                        [223, 220, 83],
-                                        [198, 175, 201],
-                                        [83, 47, 125],
-                                        [227, 119, 90], ])
     elif args.dataset == 'LongKou':
         dpi_large = 1000
         color_costom_matrix = np.array([[79, 170, 72],
