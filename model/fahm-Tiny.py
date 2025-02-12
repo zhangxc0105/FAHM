@@ -233,7 +233,7 @@ def proposed(dataset, patch_size):
     elif dataset == 'Pavia':
         model = FAHM(img_size=patch_size, in_chans=103, num_classes=9, n_groups=[2, 2, 2], depths=[1, 1, 1])
     elif dataset == 'Trento':
-        model = FAHM(img_size=patch_size, in_chans=63, num_classes=6, n_groups=[2, 2, 2], depths=[1, 2, 2])
+        model = FAHM(img_size=patch_size, in_chans=63, num_classes=6, n_groups=[2, 2, 2], depths=[1, 1, 1])
     elif dataset == 'LongKou':
         model = FAHM(img_size=patch_size, in_chans=270, num_classes=9, n_groups=[2, 2, 2], depths=[1, 1, 2])
 
