@@ -6,7 +6,7 @@ PyTorch codes for "[FAHM: Frequency-Aware Hierarchical Mamba for Hyperspectral I
 
 ### Overall
 <div align=center>
-<img src="assets/framework.png" width="700px">
+<img src="asset/framework.png" width="700px">
 </div>
 
 ### 🌱Abstract
