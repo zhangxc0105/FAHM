@@ -27,6 +27,9 @@ PyTorch codes for "[FAHM: Frequency-Aware Hierarchical Mamba for Hyperspectral I
   author={Zhuang, Peixian and Zhang, Xiaochen and Wang, Hao and Zhang, Tianxiang and Liu, Leiming and Li, Jiangyun},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   year={2025},
+  volume={18},
+  number={},
+  pages={6299-6313},
   publisher={IEEE}
 }
 ```
