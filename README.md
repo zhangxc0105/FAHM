@@ -1,6 +1,6 @@
 # 📖 FAHM: Frequency-Aware Hierarchical Mamba for Hyperspectral Image Classification (IEEE JSTARS 2025)
 
-PyTorch codes for "[FAHM: Frequency-Aware Hierarchical Mamba for Hyperspectral Image Classification]", **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2025.
+PyTorch codes for "[FAHM: Frequency-Aware Hierarchical Mamba for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10877784)", **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2025.
 
 - Authors: Peixian Zhuang, Xiaochen Zhang, Hao Wang, Tianxiang Zhang, Leiming Liu, and Jiangyun Li
 
